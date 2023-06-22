@@ -1,0 +1,1 @@
+With SSH keys, you can connect to GitHub without supplying your username and personal access token at each visit. You can also use an SSH key to sign commits. You can access and write data in repositories on GitHub.com using SSH (Secure Shell Protocol).
